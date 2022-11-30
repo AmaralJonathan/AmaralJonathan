@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, i'm here:
 🔭 Jonathan Cristovão do Amaral is my name, i've 23 years old and i live in<br>Rio de Janeiro, Brazil.<br><br>🎓 Graduating in (CST) Systems Analysis and Development,<br> with more than 30 certificates. <br><br>👨🏽‍💻 I currently work as a Java developer in the area of ​​network automation.<br>
 
 
